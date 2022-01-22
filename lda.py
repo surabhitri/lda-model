@@ -1,6 +1,4 @@
 """Latent Dirichlet Allocation
-
-Patrick Wang, 2021
 """
 from typing import List
 
